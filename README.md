@@ -1,7 +1,7 @@
-alfred-workflow-dummy
-=====================
+Dummy repo for testing Alfred-Workflow
+======================================
 
-A dummy repo for testing Alfred-Workflow's update functionality.
+A dummy repo for testing [Alfred-Workflow](https://github.com/deanishe/alfred-workflow)'s update functionality.
 
 ## Releases ##
 
