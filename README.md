@@ -32,3 +32,7 @@ Valid release (contains 1 .alfredworkflow file and 1 .zip file). *Should* be con
 ### v7.0 ###
 
 Invalid release (contains no files).
+
+### v7.1-beta ###
+
+Invalid release (pre-release status).
