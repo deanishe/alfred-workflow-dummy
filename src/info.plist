@@ -11,7 +11,7 @@
 	<key>description</key>
 	<string>Dummy Workflow for testing Alfred-Workflow</string>
 	<key>disabled</key>
-	<false/>
+	<true/>
 	<key>name</key>
 	<string>Dummy</string>
 	<key>objects</key>
